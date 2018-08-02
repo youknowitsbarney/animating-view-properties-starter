@@ -1,4 +1,4 @@
-# iOS-view-animations-starter
+# iOS-animating-view-properties-starter
 
 * This is a simple project that explains the basics of iOS view animations. 
 * It's written in Swift 4, in Xcode version 9.2. 
